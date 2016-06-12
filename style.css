@@ -5,6 +5,10 @@ html, body {
   margin-left: 2rem;
 }
 
+hr {
+	color: #66CCCC;
+}
+
 img {
 	border: 5px solid #FFF;
 }
