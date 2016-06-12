@@ -6,7 +6,8 @@ html, body {
 }
 
 hr {
-	color: #66CCCC;
+	color:#66CCCC;
+	background-color:#66CCCC;
 }
 
 img {
