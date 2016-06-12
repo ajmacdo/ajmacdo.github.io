@@ -4,6 +4,10 @@ html, body {
   line-height: 1.5;
 }
 
+img {
+	border: 5px solid #FFF;
+}
+
 h1 {
 	text-align: center;
 	margin-top: 15px;
