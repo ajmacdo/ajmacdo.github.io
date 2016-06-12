@@ -32,9 +32,11 @@ h2 {
 }
 h3 {
   padding: 0px; 
+  margin-bottom: -1rem;
 }
 h4 {
   padding: 0px; 
+  margin-bottom: -1rem;
 }
 h5 {
   padding: 0px; 
