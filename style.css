@@ -5,7 +5,7 @@ html, body {
   margin-left: 2rem;
   font-family: Arial, sans-serif; 
   transform: scale(1.1);
-   transform-origin: 10% 10%;
+   transform-origin: .10%: .10%;
 }
 
 hr {
