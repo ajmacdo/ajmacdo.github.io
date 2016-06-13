@@ -14,7 +14,7 @@ hr {
 }
 
 img {
-	border: 5px solid ##009999;
+	border: 10px solid #009999;
 }
 
 p {
@@ -33,7 +33,7 @@ h1 {
   padding: 0px; 
   text-align: center;
   color: #009999;
-  font-size: 28px;
+  font-size: 48px;
 }
 
 h2 {
