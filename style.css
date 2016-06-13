@@ -17,6 +17,10 @@ img {
 	border: 10px solid #FFF;
     display: block;
     margin: 0 auto;
+    height: auto; 
+    width: auto; 
+    max-width: 300px; 
+    max-height: 300px;
 }
 
 p {
