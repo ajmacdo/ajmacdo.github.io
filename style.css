@@ -14,8 +14,9 @@ hr {
 	margin-top: 1.5rem;
 }
 
-href {
+a href {
 	text-align: center;
+	margin-top: 1.5rem;
 }
 
 img {
