@@ -9,14 +9,11 @@ html, body {
 hr {
 	color:#66CCCC;
 	background-color:#66CCCC;
+	height: 100px;
 }
 
 img {
 	border: 5px solid #FFF;
-}
-
-h1 {
-	text-align: center;
 }
 
 p {
@@ -32,7 +29,9 @@ body {
 
 h1 {
   padding: 0px; 
+  text-align: center;
 }
+
 h2 {
   padding: 0px;
   margin-bottom: -1rem;
