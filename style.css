@@ -13,6 +13,10 @@ hr {
 	border: 0 none;
 }
 
+a href {
+	text-align: center;
+}
+
 img {
 	border: 10px solid #FFF;
     display: block;
