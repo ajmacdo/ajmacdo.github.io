@@ -15,12 +15,8 @@ hr {
 
 img {
 	border: 10px solid #FFF;
-
-img.center {
     display: block;
     margin: 0 auto;
-}
-
 }
 
 p {
